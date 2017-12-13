@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844665519214",
+    "firebase_url": "https://regal-reporter-188019.firebaseio.com",
+    "project_id": "regal-reporter-188019",
+    "storage_bucket": "regal-reporter-188019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844665519214:android:e668af5117f8ece1",
+        "android_client_info": {
+          "package_name": "com.example.kamran.bluewhite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844665519214-dbnh4ngrg0iqd4a676mngb1vj7779ob7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamran.bluewhite",
+            "certificate_hash": "3814576f1dab58f947267a1031ea47b7d6330297"
+          }
+        },
+        {
+          "client_id": "844665519214-na5iu70g19hm0990gvuv00e0hbvddila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHdAHinpjya5ACcCYM46nVNkd_6dLIaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844665519214-na5iu70g19hm0990gvuv00e0hbvddila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
